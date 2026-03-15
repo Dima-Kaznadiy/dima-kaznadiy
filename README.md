@@ -1,8 +1,9 @@
 👋 Hi, I'm Dima Kaznadiy
+-------------------------
 
 💻 Junior Fullstack Developer
 📍 Based in Kyiv, Ukraine
-
+--------------------------
 Motivated junior developer focused on building modern web applications using JavaScript, React, and Node.js.
 Currently improving my frontend and backend skills while working on educational and portfolio projects.
 
