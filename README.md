@@ -1,16 +1,84 @@
-## Hi there 👋
+👋 Hi, I'm Dima Kaznadiy
 
-<!--
-**Dima-Kaznadiy/dima-kaznadiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Fullstack Developer
+📍 Based in Kyiv, Ukraine
 
-Here are some ideas to get you started:
+Motivated junior developer focused on building modern web applications using JavaScript, React, and Node.js.
+Currently improving my frontend and backend skills while working on educational and portfolio projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am open to internship opportunities, collaboration, and team projects.
+
+🚀 Currently Learning
+
+Advanced JavaScript
+
+React and modern frontend development
+
+Node.js fundamentals
+
+Working with Git & GitHub
+
+Writing clean and maintainable code
+
+🛠 Tech Stack
+Frontend
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React
+
+Backend
+
+Node.js (learning)
+
+Tools
+
+Git
+
+GitHub
+
+VS Code
+
+📚 Current Goals
+
+Build strong portfolio projects
+
+Improve JavaScript fundamentals
+
+Gain experience with React applications
+
+Learn backend development with Node.js
+
+Contribute regularly on GitHub
+
+Get my first internship as a developer
+
+📌 Featured Projects
+HTML / CSS Projects
+
+Markup Projects (GoIT course)
+Responsive web pages built using semantic HTML and CSS.
+
+Projects include:
+
+responsive layouts
+
+semantic HTML
+
+modern CSS practices
+
+My First Project
+
+Small project created to practice JavaScript and frontend fundamentals.
+
+👥 Team Experience
+
+Experience working on team projects during development courses
+
+Collaboration using Git and GitHub
+
+Understanding of code review and version control workflow
