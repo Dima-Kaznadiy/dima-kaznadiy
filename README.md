@@ -7,9 +7,9 @@ Motivated junior developer focused on building modern web applications using Jav
 Currently improving my frontend and backend skills while working on educational and portfolio projects.
 
 I am open to internship opportunities, collaboration, and team projects.
---------------------------------------------------------------------------------------------------------------
-🚀 Currently Learning
 
+🚀 Currently Learning
+--------------------------------------------------------------------------------------------------------------
 Advanced JavaScript
 
 React and modern frontend development
@@ -19,11 +19,11 @@ Node.js fundamentals
 Working with Git & GitHub
 
 Writing clean and maintainable code
---------------------------------------------------------------------------------------------------------------
-🛠 Tech Stack
---------
-Frontend
 
+🛠 Tech Stack
+--------------------------------------------------------------------------------------------------------------
+Frontend
+--------
 HTML5
 
 CSS3
@@ -31,9 +31,9 @@ CSS3
 JavaScript
 
 React
--------
-Backend
 
+Backend
+-------
 Node.js (learning)
 
 Tools
@@ -43,9 +43,9 @@ Git
 GitHub
 
 VS Code
-----------------------------------------------------------------------------------------------------------
-📚 Current Goals
 
+📚 Current Goals
+----------------------------------------------------------------------------------------------------------
 Build strong portfolio projects
 
 Improve JavaScript fundamentals
@@ -57,8 +57,9 @@ Learn backend development with Node.js
 Contribute regularly on GitHub
 
 Get my first internship as a developer
----------------------------------------------------------------------------------------------------------
+
 📌 Featured Projects
+---------------------------------------------------------------------------------------------------------
 HTML / CSS Projects
 
 Markup Projects (GoIT course)
@@ -75,9 +76,9 @@ modern CSS practices
 My First Project
 
 Small project created to practice JavaScript and frontend fundamentals.
-----------------------------------------------------------------------------------------------------------
-👥 Team Experience
 
+👥 Team Experience
+----------------------------------------------------------------------------------------------------------
 Experience working on team projects during development courses
 
 Collaboration using Git and GitHub
