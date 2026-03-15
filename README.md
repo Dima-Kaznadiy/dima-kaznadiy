@@ -7,7 +7,7 @@ Motivated junior developer focused on building modern web applications using Jav
 Currently improving my frontend and backend skills while working on educational and portfolio projects.
 
 I am open to internship opportunities, collaboration, and team projects.
-
+--------------------------------------------------------------------------------------------------------------
 🚀 Currently Learning
 
 Advanced JavaScript
@@ -19,8 +19,9 @@ Node.js fundamentals
 Working with Git & GitHub
 
 Writing clean and maintainable code
-
+--------------------------------------------------------------------------------------------------------------
 🛠 Tech Stack
+--------
 Frontend
 
 HTML5
@@ -30,7 +31,7 @@ CSS3
 JavaScript
 
 React
-
+-------
 Backend
 
 Node.js (learning)
@@ -42,7 +43,7 @@ Git
 GitHub
 
 VS Code
-
+----------------------------------------------------------------------------------------------------------
 📚 Current Goals
 
 Build strong portfolio projects
@@ -56,7 +57,7 @@ Learn backend development with Node.js
 Contribute regularly on GitHub
 
 Get my first internship as a developer
-
+---------------------------------------------------------------------------------------------------------
 📌 Featured Projects
 HTML / CSS Projects
 
@@ -74,7 +75,7 @@ modern CSS practices
 My First Project
 
 Small project created to practice JavaScript and frontend fundamentals.
-
+----------------------------------------------------------------------------------------------------------
 👥 Team Experience
 
 Experience working on team projects during development courses
